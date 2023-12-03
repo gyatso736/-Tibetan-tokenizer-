@@ -8,20 +8,7 @@
 
 ༣ ནོར་འཁྲུལ་ཡོད་ངེས་པས། ལེགས་བཅོས་ཡོངས་ཐབས་སོགས་ཀྱི་བསམ་འཆར་གང་མང་འདོན་རོགས་ཞུ། འབྲེག་གཏུག་ཡིག་ཟམ་ནི་jibudu@163.comཡིན།  
 ༤ བདག་དབང་སྒེར་ལ་ཡོད་པས་ཡིད་གཟབ་གནང་རོགས། 
-  ******
-    
-Version：1.0   
-1、This Tibetan tokenizer based on Bi-LSTM+CRF methods, it was created with the aim of aiding researchers in the field of Tibetan natural language processing.   
-2、#Usage Instructions: Execute the following command for tokenization.   
->>Command: **python3 NyimaTashi.py variable1 variable2**  
->>Where variable1 is the absolute path of the file to be tokenized, and variable2 is the absolute path of the output file for the results.  
->>For example, if the file you want to tokenize is on the desktop with the filename "1.txt," and you want the tokenized results to be output to the desktop with the filename "2.txt," the command would be:  
->>>>**python3 NyimaTashi.py ~/Desktop/1.txt ~/Desktop/2.txt**
-  
-3、Citation for Research Using the Tokenization System: "Research on Tibetan Word Segmentation Method Based on Bi-LSTM Combined with CRF — by Gesang Jiacuo et al."  
-4、The tokenization system is developed by the team of scholars led by Professor Nyima Tashi from Tibet University and team of scholars led by Professor Tong Xiao and Professor Jingbo Zhu from NorthEasten University. Its purpose is to provide convenience for individuals engaged in learning and researching Tibetan information processing. Please refrain from using it for illegal purposes.  
-5、Due to limitations in the corpus, there may be instances of word segmentation errors with unfamiliar words. We welcome any constructive suggestions for improvement. For inquiries, please contact us at: jibudu@163.com.  
-6. All rights reserved by the team. Legal actions will be taken against any infringement.  
+
    ******
      
 版本：v1.0  
@@ -38,3 +25,17 @@ Version：1.0
 6、由于语料的限制，会出现生词的分词错误的情况，有好的改进方法非常欢迎大家来探讨。联系邮箱： jibudu@163.com。  
 7、版权归作者所有，侵权必究。  
 
+  ******
+    
+Version：1.0   
+1、This Tibetan tokenizer based on Bi-LSTM+CRF methods, it was created with the aim of aiding researchers in the field of Tibetan natural language processing.   
+2、#Usage Instructions: Execute the following command for tokenization.   
+>>Command: **python3 NyimaTashi.py variable1 variable2**  
+>>Where variable1 is the absolute path of the file to be tokenized, and variable2 is the absolute path of the output file for the results.  
+>>For example, if the file you want to tokenize is on the desktop with the filename "1.txt," and you want the tokenized results to be output to the desktop with the filename "2.txt," the command would be:  
+>>>>**python3 NyimaTashi.py ~/Desktop/1.txt ~/Desktop/2.txt**
+  
+3、Citation for Research Using the Tokenization System: "Research on Tibetan Word Segmentation Method Based on Bi-LSTM Combined with CRF — by Gesang Jiacuo et al."  
+4、The tokenization system is developed by the team of scholars led by Professor Nyima Tashi from Tibet University and team of scholars led by Professor Tong Xiao and Professor Jingbo Zhu from NorthEasten University. Its purpose is to provide convenience for individuals engaged in learning and researching Tibetan information processing. Please refrain from using it for illegal purposes.  
+5、Due to limitations in the corpus, there may be instances of word segmentation errors with unfamiliar words. We welcome any constructive suggestions for improvement. For inquiries, please contact us at: jibudu@163.com.  
+6. All rights reserved by the team. Legal actions will be taken against any infringement.  
