@@ -1,5 +1,5 @@
 # - བོད་ཡིག་གི་ཚིག་མིང་དུ་དབྱེ་ཐབས། Tibetan-tokenizer 藏文分词器-
-༡ བོད་ཡིག་མིང་དུ་དབྱེ་ཐབས་འདི་ནི་བོད་སྐད་ཡིག་དང་འབྲེལ་བའི་ཞིབ་འཇུག་གནང་མཁན་ཚོར་སྟོབས་བདེ་ཅུང་ཙམ་བསྐྲུན་ཆེད། བོད་ལྗོངས་སློབ་སྒྲ་ཆེན་མོའི་དགེ་རྒན་ཆེན་མོ་ཉི་མ་བཀྲ་ཤིས་ལགས་དང་ཁོང་གི་སློབ་མས་ཐབས་Bi-LSTM+CRFཟུང་འབྲེལ་བྱས་ནས་བཟོས་པ་ཞིག་ཡིན།  
+༡ བོད་ཡིག་མིང་དུ་དབྱེ་ཐབས་འདི་ནི་བོད་སྐད་ཡིག་དང་འབྲེལ་བའི་ཞིབ་འཇུག་གནང་མཁན་ཚོར་སྟོབས་བདེ་ཅུང་ཙམ་བསྐྲུན་ཆེད། བོད་ལྗོངས་སློབ་སྒྲ་ཆེན་མོའི་དགེ་རྒན་ཆེན་མོ་ཉི་མ་བཀྲ་ཤིས་ལགས་དང་ཁོང་གི་སློབ་མ། ཀྲུང་གོ་ཤར་བྱང་སློབ་ཆེན་གྱི་རྒན་ཞའོ་ཐོང་ལགས་དང་རྒན་ཀྲུའུ་ཅིང་པའོ་ལགས་གཉིས་ཀྱི་སློབ་མས་ཐབས་Bi-LSTMདང་CRFཟུང་འབྲེལ་བྱས་ནས་བཟོས་པ་ཞིག་ཡིན།  
 ༢ སྤྱོད་ཐབས་ནི།   
 >>Command: **python3  NyimaTashi.py  variable༡  variable༢**  སྣོན་དགོས།  
 >>དེའི་ནང་ནས། variable༡ ནི་ཁྱེད་རང་གི་མིང་དུ་དབྱེ་དགོས་པའི་ཡིག་ཆའི་ཡོང་ཁུངས་དང་variable༢ ནི་མིང་དུ་དབྱེ་བའི་འབྲས་བུ་འཇོག་ས་རེད། དེ་གཉིས་ནང་ཡིག་ཆའི་ཁུངས་ཁ་གསལ་འཇོག་དགོས་པ་ཡིན།  
@@ -19,9 +19,9 @@ Version：1.0
 >>>>**python3 NyimaTashi.py ~/Desktop/1.txt ~/Desktop/2.txt**
   
 3、Citation for Research Using the Tokenization System: "Research on Tibetan Word Segmentation Method Based on Bi-LSTM Combined with CRF — by Gesang Jiacuo et al."  
-4、The tokenization system is developed by the team of scholars led by Professor Nyima Tashi at Tibet University, including doctoral student Gesang Jiacuo. Its purpose is to provide convenience for individuals engaged in learning and researching Tibetan information processing. Please refrain from using it for illegal purposes.  
+4、The tokenization system is developed by the team of scholars led by Professor Nyima Tashi from Tibet University and team of scholars led by Professor Tong Xiao and Professor Jingbo Zhu from NorthEasten University. Its purpose is to provide convenience for individuals engaged in learning and researching Tibetan information processing. Please refrain from using it for illegal purposes.  
 5、Due to limitations in the corpus, there may be instances of word segmentation errors with unfamiliar words. We welcome any constructive suggestions for improvement. For inquiries, please contact us at: jibudu@163.com.  
-6. All rights reserved by the team of scholars led by Professor Nyima Tashi. Legal actions will be taken against any infringement.  
+6. All rights reserved by the team. Legal actions will be taken against any infringement.  
    ******
      
 版本：v1.0  
@@ -34,7 +34,7 @@ Version：1.0
 
 3、使用本分词系统进行研究，请引用论文“基于Bi-LSTM结合CRF的藏文分词方法研究--格桑加措等”，并作出说明。  
 4、本系统测试环境pytorch版本为1.12。  
-5、本分词系统是由西藏大学尼玛扎西院士团队的博士生格桑加措等人开发，旨在为学习和研究藏文信息处理的人员提供便利。请勿用于非法用途。  
+5、本分词系统是由西藏大学尼玛扎西院士团队的博士生格桑加措和东北大学自然语言处理实验室肖桐教授、朱靖波教授的学生阿布.杜热西提等人开发，旨在为学习和研究藏文信息处理的人员提供便利。请勿用于非法用途。  
 6、由于语料的限制，会出现生词的分词错误的情况，有好的改进方法非常欢迎大家来探讨。联系邮箱： jibudu@163.com。  
 7、版权归作者所有，侵权必究。  
 
