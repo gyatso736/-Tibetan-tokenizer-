@@ -30,7 +30,7 @@
 Version：1.0   
 1、This Tibetan tokenizer based on Bi-LSTM+CRF methods, it was created with the aim of aiding researchers in the field of Tibetan natural language processing.   
 2、Usage Instructions: Execute the following command for tokenization.   
->>Command: **python3 NyimaTashi.py variable1 variable2**  
+>>Command: **python3 NyimaTashi.py variable1 variable2**   
 >>Where variable1 is the absolute path of the file to be tokenized, and variable2 is the absolute path of the output file for the results.  
 >>For example, if the file you want to tokenize is on the desktop with the filename "1.txt," and you want the tokenized results to be output to the desktop with the filename "2.txt," the command would be:    
 >>>>**python3 NyimaTashi.py ~/Desktop/1.txt ~/Desktop/2.txt**
