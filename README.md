@@ -6,7 +6,7 @@
 >>དེ་ནས། **python  NyimaTashi.py  input_file  output_file**  སྣོན་དགོས།  
 >>དེའི་ནང་ནས། input_file ནི་ཁྱེད་རང་གི་མིང་དུ་དབྱེ་དགོས་པའི་ཡིག་ཆ་དང་output_file ནི་མིང་དུ་དབྱེ་བའི་འབྲས་བུ་རེད། དེ་གཉིས་ནང་ཡིག་ཆའི་ཁུངས་ཁ་གསལ་འཇོག་དགོས་པ་ཡིན།  
 >>དཔེར་ན། ཁྱེད་རང་གི་ཡིག་ཆ་ཡོང་སའི་ཁུངས་/home/ss/Desktop/file༡ ཡིན་པ་དང་ཡིག་ཆ་མིང་དུ་དབྱ་ཟིན་རྗེས་/home/ss/Desktop/file༢ ཡིན་བསམ་ན་གཤམ་གསལ་ལྟར་སྣོན་དགོས།   
->>>>**pip install requirments.txt**
+>>>>**pip install requirments.txt**  
 >>>>**python  NyimaTashi.py  /home/ss/Desktop/file༡  /home/ss/Desktop/file༢**   
 
 ༣ ནོར་འཁྲུལ་ཡོད་ངེས་པས། ལེགས་བཅོས་ཡོངས་ཐབས་སོགས་ཀྱི་བསམ་འཆར་གང་མང་འདོན་རོགས་ཞུ། འབྲེག་གཏུག་ཡིག་ཟམ་ནི་jibudu@163.comཡིན།  
@@ -21,7 +21,8 @@
 >>>> 其次执行 **python NyimaTashi.py input_file output_file** 进行分词。
 >>>> 其中，input_file为需要分词的文件的绝对路径，output_file为结果输出文件的绝对路径。  
 >>例如：你需要分词的文件在桌面，文件名叫1.txt，分词结果也希望输出到桌面，文件名为2.txt。那么执行命令为：  
->>>>**python NyimaTashi.py ～/Desktop/1.txt ～/Desktop/2.txt**
+>>>>**pip install requirments.txt**  
+>>>> **python NyimaTashi.py ～/Desktop/1.txt ～/Desktop/2.txt**
 
 3、使用本分词系统进行研究，请引用论文“基于Bi-LSTM结合CRF的藏文分词方法研究--格桑加措等”，并作出说明。  
 4、本系统测试环境pytorch版本为1.12。  
@@ -38,7 +39,7 @@ Version：1.0
 >>and tokenize with **python NyimaTashi.py input_file input_file** .  
 >>Where input_file is the absolute path of the file to be tokenized, and output_file is the absolute path of the output file for the results.  
 >>For example, if the file you want to tokenize is on the desktop with the filename "1.txt," and you want the tokenized results to be output to the desktop with the filename "2.txt," the command would be:    
->>>>**pip install requirments.txt**
+>>>>**pip install requirments.txt**  
 >>>>**python NyimaTashi.py ~/Desktop/1.txt ~/Desktop/2.txt**
   
 3、Citation for Research Using the Tokenization System: "Research on Tibetan Word Segmentation Method Based on Bi-LSTM Combined with CRF — by Gesang Jiacuo et al."  
