@@ -5,7 +5,7 @@
 >>>སྔོན་ལ། **pip install -r requirments.txt** སྣོན་པ་དང་།   
 >>>དེ་ནས། **python  NyimaTashi.py  input_file  output_file**  སྣོན་དགོས།  
 >>>དེའི་ནང་ནས། input_file ནི་ཁྱེད་རང་གི་མིང་དུ་དབྱེ་དགོས་པའི་ཡིག་ཆ་དང་output_file ནི་མིང་དུ་དབྱེ་བའི་འབྲས་བུ་རེད། དེ་གཉིས་ནང་ཡིག་ཆའི་ཁུངས་ཁ་གསལ་འཇོག་དགོས་པ་ཡིན།  
->>>དཔེར་ན། ཁྱེད་རང་གི་ཡིག་ཆ་ཡོང་སའི་ཁུངས་/home/ss/Desktop/file༡ ཡིན་པ་དང་ཡིག་ཆ་མིང་དུ་དབྱ་ཟིན་རྗེས་/home/ss/Desktop/file༢ ཡིན་བསམ་ན་གཤམ་གསལ་ལྟར་སྣོན་དགོས།   
+>>>དཔེར་ན། ཁྱེད་རང་གི་མིང་དུ་དབྱེ་རྒྱུའི་ཡིག་ཆ་/home/ss/Desktop/file༡ ཡིན་པ་དང་ཡིག་ཆ་མིང་དུ་དབྱ་ཟིན་རྗེས་/home/ss/Desktop/file༢ ཡིན་བསམ་ན་གཤམ་གསལ་ལྟར་སྣོན་དགོས།   
 >>>>**pip install -r requirments.txt**  
 >>>>**python  NyimaTashi.py  /home/ss/Desktop/file༡  /home/ss/Desktop/file༢**   
 
