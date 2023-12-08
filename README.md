@@ -38,7 +38,7 @@ Version：1.0
 >>Command: Install all environments with **"pip install requirments.txt"**,
 >>and tokenize with **python NyimaTashi.py input_file input_file** .  
 >>Where input_file is the absolute path of the file to be tokenized, and output_file is the absolute path of the output file for the results.  
->>For example, if the file you want to tokenize is on the desktop with the filename "1.txt," and you want the tokenized results to be output to the desktop with the filename "2.txt," the command would be:    
+>>For example, if the file you want to tokenize is on the desktop with the filename "1.txt," and you want the tokenized results to be output to the desktop with the filename "2.txt," the command would be:      
 >>>>**pip install requirments.txt**  
 >>>>**python NyimaTashi.py ~/Desktop/1.txt ~/Desktop/2.txt**
   
