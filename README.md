@@ -21,8 +21,8 @@
 >>>> 其次执行 **python NyimaTashi.py input_file output_file** 进行分词。
 >>>>> 其中，input_file为需要分词的文件的绝对路径，output_file为结果输出文件的绝对路径。  
 >>例如：你需要分词的文件在桌面，文件名叫1.txt，分词结果也希望输出到桌面，文件名为2.txt。那么执行命令为：    
->>>>**pip install -r requirments.txt**  
->>>> **python NyimaTashi.py ～/Desktop/1.txt ～/Desktop/2.txt**
+%Cgreen>>>>**pip install -r requirments.txt**  
+%Cgreen>>>> **python NyimaTashi.py ～/Desktop/1.txt ～/Desktop/2.txt**
 
 3、使用本分词系统进行研究，请引用论文“基于Bi-LSTM结合CRF的藏文分词方法研究--格桑加措等”，并作出说明。  
 4、本系统测试环境pytorch版本为1.12。  
