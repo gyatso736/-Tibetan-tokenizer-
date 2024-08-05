@@ -10,7 +10,7 @@
 >>>>**python  NyimaTashi.py  /home/ss/Desktop/file༡  /home/ss/Desktop/file༢**   
 
 ༣ ནོར་འཁྲུལ་ཡོད་ངེས་པས། ལེགས་བཅོས་ཡོངས་ཐབས་སོགས་ཀྱི་བསམ་འཆར་གང་མང་འདོན་རོགས་ཞུ། འབྲེག་གཏུག་ཡིག་ཟམ་ནི་jibudu@163.comཡིན།  
-༤ བདག་དབང་སྒེར་ལ་ཡོད་པས་ཡིད་གཟབ་གནང་རོགས་ཞུ། 
+
 
    ******
      
@@ -28,7 +28,7 @@
 4、环境所需pytorch、python等版本可以参考requierments.txt,也可以pip install requierments.txt安装依赖包。  
 5、本分词系统是由西藏大学尼玛扎西院士团队的学生格桑加措和东北大学自然语言处理实验室肖桐教授、朱靖波教授的学生阿卜杜热西提和藏医药大学的学生面加等人开发，旨在为学习和研究藏文信息处理的人员提供便利。请勿用于非法用途。  
 6、由于语料的限制，会出现生词的分词错误的情况，有好的改进方法非常欢迎大家来探讨。联系邮箱： jibudu@163.com。  
-7、版权归作者所有，侵权必究。  
+ 
 
   ******
     
@@ -45,4 +45,4 @@ Version：1.0
 3、Citation for Research Using the Tokenization System: "Research on Tibetan Word Segmentation Method Based on Bi-LSTM Combined with CRF — by Gesang Jiacuo et al."  
 4、The tokenization system is developed by the team of scholars led by Professor Nyima Tashi from Tibet University and team of scholars led by Professor Tong Xiao and Professor Jingbo Zhu from NorthEasten University. Its purpose is to provide convenience for individuals engaged in learning and researching Tibetan information processing. Please refrain from using it for illegal purposes.  
 5、Due to limitations in the corpus, there may be instances of word segmentation errors with unfamiliar words. We welcome any constructive suggestions for improvement. For inquiries, please contact us at: jibudu@163.com.  
-6. All rights reserved by the team. Legal actions will be taken against any infringement.  
+
