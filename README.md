@@ -46,3 +46,6 @@ tokenize file with command: python NyimaTashi.py input_file input_file
 3、Citation for Research Using the Tokenization System: "Research on Tibetan Word Segmentation Method Based on Bi-LSTM Combined with CRF — by Gesang Jiacuo et al."  
 4、The tokenization system is developed by the team of scholars led by Professor Nyima Tashi from Tibet University and team of scholars led by Professor Tong Xiao and Professor Jingbo Zhu from NorthEasten University. Its purpose is to provide convenience for individuals engaged in learning and researching Tibetan information processing. Please refrain from using it for illegal purposes.  
 5、Due to limitations in the corpus, there may be instances of word segmentation errors with unfamiliar words. We welcome any constructive suggestions for improvement. For inquiries, please contact us at: jibudu@163.com.  
+
+致谢：
+特别感谢本人导师西藏大学尼玛扎西院士，特别感谢东北大学自然语言处理实验室肖桐教授和朱静波教授的指导和关照，感谢东大自然语言处理实验室李银桥学长、李北学长、景一学弟、郑童学弟等其他老师和同学的指导和关照，感谢阿卜杜热西提学长的合作。
