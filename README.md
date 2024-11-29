@@ -49,4 +49,4 @@ tokenize file with command: python NyimaTashi.py input_file input_file
 5、Due to limitations in the corpus, there may be instances of word segmentation errors with unfamiliar words. We welcome any constructive suggestions for improvement. For inquiries, please contact us at: jibudu@163.com.  
 
 致谢：
-特别感谢本人导师西藏大学尼玛扎西院士和东北大学自然语言处理实验室肖桐教授、朱静波教授的指导和关照，感谢东大自然语言处理实验室李银桥学长、李北学长、景一学弟、郑童学弟等其他老师和同学的指导和关照，感谢阿卜杜热西提学长的合作。
+特别感谢本人博士导师西藏大学尼玛扎西院士、硕士导师赵栋材教授和东北大学自然语言处理实验室肖桐教授、朱静波教授的指导和关照，感谢东大自然语言处理实验室李银桥学长、李北学长、景一学弟、郑童学弟等其他老师和同学的指导和关照，感谢阿卜杜热西提学长的合作。
